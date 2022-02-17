@@ -1,4 +1,4 @@
-I'm currently studying towards an MS in Economics at The Graduate Institute of International and Development Studies. I mainly concentrate on international finance, systemic risk and macroeconomics. Aside, I like climbing, racquet sports, and football (the European one)
+I'm currently studying towards an MS in Economics at The Graduate Institute of International and Development Studies. I like macroeconomics. 
 
 ###### Writing  
 
