@@ -24,4 +24,4 @@ Not Econ Related
 7. [2017, Ashoka University: Feature for placing Second in the Chinese Academic Olympics](https://www.ashoka.edu.in/static/doc_uploads/file_1515150123.pdf)
 8. 2017, in the Chinese media: [Sohu](https://www.sohu.com/a/205179513_99899603), [Sina](https://k.sina.cn/article_2748597475_a3d444e3020002y1g.html?from=news&subch=onews), [Xinmin](http://wap.xinmin.cn/content/31334504.html).
 
-<img src="assets/images/4A5D3FEA-63C8-4D33-BAF8-995A96B318A1_4_5005_c.jpeg" alt=" ">
+<img src="docs/D3710186-D2D8-41F3-A6E9-C271072FEA0A_1_201_a.jpeg" alt=" ">
