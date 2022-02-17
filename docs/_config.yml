@@ -1,9 +1,1 @@
-theme: jekyll-theme-Forty
-title: Rhythm Banerjee
-socials:
-  Twitter: https://twitter.com/rhythmrbanerjee
-exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+theme: jekyll-theme-Slate
