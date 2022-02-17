@@ -1,4 +1,4 @@
-I'm currently studying towards an MS in Economics at The Graduate Institute of International and Development Studies. I like macroeconomics. 
+I'm currently studying towards an MS in Economics at The Graduate Institute of International and Development Studies. I like macroeconomics and international finance.
 
 ###### Writing  
 
