@@ -2,8 +2,6 @@ theme: jekyll-theme-Forty
 title: Rhythm Banerjee
 socials:
   Twitter: https://twitter.com/rhythmrbanerjee
-sass:
-  style: compressed
 exclude:
 - "*.gemspec"
 - LICENSE.md
