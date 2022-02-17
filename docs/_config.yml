@@ -1,5 +1,6 @@
 theme: jekyll-theme-Slate
 title: Rhythm Banerjee
+header: "null" 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
